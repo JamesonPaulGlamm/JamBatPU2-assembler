@@ -18,7 +18,7 @@ Download the win64.zip(if you are not on windows get the tar.gz or the .zip)
 Extract the file (if you are not on windows you may have to extract and then compile it)
 
 Download this repository via zip and extract it
-Execute "customasm" and give whatever asm file you want to assemble
+Execute "customasm" and give whatever asm file you want to assemble (see template.asm)
 To turn your assembled file into a valid BatPU-2 .mc format do "python3 conv.py insertname.asm insertname.mc" (keep in mind you don't have to use .asm or .mc, you can use whatever)
 
 https://github.com/mattbatwings/BatPU-2
@@ -26,5 +26,5 @@ Download and extract the repository above
 Use schematic.py to turn my "insertname.mc" files to a schem file the minecraft computer can actually use
 
 # TODO
-Make a compiler
+Make a compiler <br/>
 Add more features to the assembler
