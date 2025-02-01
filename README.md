@@ -24,7 +24,3 @@ To turn your assembled file into a valid BatPU-2 .mc format do "python3 conv.py 
 https://github.com/mattbatwings/BatPU-2 <br/>
 Download and extract the repository above <br/>
 Use schematic.py to turn my "insertname.mc" files to a schem file the minecraft computer can actually use
-
-# TODO
-Make a compiler <br/>
-Add more features to the assembler
